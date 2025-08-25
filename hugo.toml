@@ -33,7 +33,7 @@ defaultContentLanguage = "de"
   
   [[menu.main]]
     name = "Ausschreibung"
-    url = "/ausschreibung"
+    url = "/2025/ausschreibung"
     weight = -200
 
   [[menu.main]]
