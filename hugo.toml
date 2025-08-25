@@ -50,7 +50,7 @@ defaultContentLanguage = "de"
     name = "Ilmenauer Schachverein ↗"
     url = "https://ilmenauer-schachverein.de"
     weight = 4
-
+ 
   [[menu.main]]
     name = "Search"
     weight = 5
