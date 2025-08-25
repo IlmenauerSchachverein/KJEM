@@ -1,7 +1,10 @@
-# Vereinsmeisterschaft 2025
+---
+title: Ausschreibung
+type: docs
+prev: /
+next: docs/folder/
+---
 
-
- 
 ## Bedenkzeit 
 75min + 0 
 
