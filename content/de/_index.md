@@ -1,5 +1,5 @@
 ---
-title: Vereinsmeisterschaft 2025
+title: KJEM 2025
 toc: false
 type: docs
 ---
