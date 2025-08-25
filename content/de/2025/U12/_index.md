@@ -1,5 +1,5 @@
 ---
-title: Altersklasse U08
+title: Altersklasse U12
 toc: false
 ---
 

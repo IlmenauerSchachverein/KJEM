@@ -1,5 +1,5 @@
-title = "Vereinsmeisterschaft Ilmenauer SV"
-baseURL = "https://vm.ilmenauer-schachverein.de"
+title = "Kreis Jugend Einzel Meisterschaft Schach"
+baseURL = "https://kjem.ilmenauer-schachverein.de"
 defaultContentLanguage = "de"
 
 [module] 
@@ -21,7 +21,7 @@ defaultContentLanguage = "de"
   [languages.de]
     languageName = "German"
     weight = 1
-    title = "Vereinsmeisterschaft"
+    title = "KJEM Ilm Kreis"
     contentDir = "content/de"
 
 [menu]
