@@ -26,11 +26,6 @@ defaultContentLanguage = "de"
 
 [menu]
   [[menu.main]]
-    name = "Chess-Results"
-    url = "https://chess-results.com/tnr1058956.aspx?lan=0"
-    weight = -100
-
-  [[menu.main]]
     name = "Ilmenauer Open"
     url = "https://open.ilmenauer-schachverein.de"
     weight = -100
@@ -54,7 +49,7 @@ defaultContentLanguage = "de"
   [[menu.main]]
     name = "GitHub"
     weight = 6
-    url = "https://github.com/IlmenauerSchachverein/Vereinsmeisterschaft"
+    url = "https://github.com/IlmenauerSchachverein/KJEM"
     [menu.main.params]
       icon = "github"
 
@@ -81,7 +76,7 @@ defaultContentLanguage = "de"
 
   [params.editURL]
     enable = false
-    base = "https://github.com/IlmenauerSchachverein/Vereinsmeisterschaft"
+    base = "https://github.com/IlmenauerSchachverein/KJEM"
 
   [params.page]
     width = "full"
