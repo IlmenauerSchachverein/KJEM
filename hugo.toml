@@ -25,6 +25,12 @@ defaultContentLanguage = "de"
     contentDir = "content/de"
 
 [menu]
+
+  [[menu.main]]
+    name = "Anmeldung"
+    url = "anmeldung"
+    weight = -200
+
   [[menu.main]]
     name = "Ilmenauer Open"
     url = "https://open.ilmenauer-schachverein.de"
