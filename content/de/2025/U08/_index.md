@@ -1,21 +1,12 @@
 ---
-title: KJEM 2025
+title: Altersklasse U08
 toc: false
 ---
-
-## Paarungen aller Runden
-
-Paarungen und Ranglisten gibt es auf Chess-Results und FindChessGame:
-
-{{< cards >}}
-{{< card link="https://chess-results.com/tnr1058956.aspx?lan=0" title="Chess-Results" icon="user" >}}
-{{< card link="https://www.findchessgames.com/index-0134,224,1232-turniere-anzeigen.html" title="FindChessGame" icon="user" >}}
-{{< /cards >}}
 
 ## Wichtige Informationen
 
 {{< cards >}}
-{{< card link="ausschreibung" title="Ausschreibung" icon="user" >}}
+{{< card link="https://chess-results.com/tnr1058956.aspx?lan=0" title="Chess-Results" icon="user" >}}
 {{< card link="startrangliste" title="Start Rangliste" icon="user" >}}
 {{< /cards >}}
 
@@ -29,8 +20,6 @@ Paarungen und Ranglisten gibt es auf Chess-Results und FindChessGame:
 {{< card link="runde/5" title="Paarungen Runde 5" icon="user" >}}
 {{< card link="runde/6" title="Paarungen Runde 6" icon="user" >}}
 {{< card link="runde/7" title="Paarungen Runde 7" icon="user" >}}
-{{< card link="runde/8" title="Paarungen Runde 8" icon="user" >}}
-{{< card link="runde/9" title="Paarungen Runde 9" icon="user" >}}
 {{< /cards >}}
 
 ## Rangliste aller Runden
@@ -43,13 +32,4 @@ Paarungen und Ranglisten gibt es auf Chess-Results und FindChessGame:
 {{< card link="rangliste/5" title="Rangliste nach Runde 5" icon="user" >}}
 {{< card link="rangliste/6" title="Rangliste nach Runde 6" icon="user" >}}
 {{< card link="rangliste/7" title="Rangliste nach Runde 7" icon="user" >}}
-{{< card link="rangliste/8" title="Rangliste nach Runde 8" icon="user" >}}
-{{< card link="rangliste/9" title="Rangliste nach Runde 9" icon="user" >}}
-{{< /cards >}}
-
-## Sondertabellen
-
-{{< cards >}}
-{{< card link="tabellen/dwz" title="DWZ Auswertung" icon="user" >}}
-{{< card link="tabellen/elo" title="ELO Auswertung" icon="user" >}}
 {{< /cards >}}
