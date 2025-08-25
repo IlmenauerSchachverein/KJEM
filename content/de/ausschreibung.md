@@ -1,6 +1,6 @@
 ---
-title: Anmeldung 2025
+title: Ausschreibung 2025
 toc: false
 ---
 
-Die Ausschreibung kommt später.
+Die Ausschreibung kommt später. 
