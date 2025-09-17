@@ -78,22 +78,29 @@ jobs:
           path: public/
 
   deploy:
-    name: Deploy to Remote Server
+    name: Deploy to Remote Server (SFTP as webuser)
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Install rsync and sshpass
-        run: sudo apt-get update && sudo apt-get install -y rsync sshpass
-
       - uses: actions/download-artifact@v5
         with:
           name: public-site
           path: public
 
-      - name: Rsync to server
+      - name: Install lftp
+        run: sudo apt-get update && sudo apt-get install -y lftp
+
+      - name: Upload via SFTP mirror
+        env:
+          SSHPW: ${{ secrets.SSHPW }}
+          SSHSERVER: ${{ secrets.SSHSERVER }}
         run: |
-          sshpass -p "$SSHPW" ssh -o StrictHostKeyChecking=no "root@$SSHSERVER" "rm -rf /var/www/kjem/* && mkdir -p /var/www/kjem"
-          sshpass -p "$SSHPW" rsync -avz --delete -e "ssh -o StrictHostKeyChecking=no" public/ "root@$SSHSERVER:/var/www/kjem/"
+          lftp -u webuser,"$SSHPW" sftp://$SSHSERVER -e "\
+            set sftp:auto-confirm yes; \
+            set net:max-retries 2; \
+            set net:timeout 30; \
+            mirror --reverse --delete --verbose --only-newer --parallel=4 public /kjem.ilmenauer-schachverein.de; \
+            bye"
 
   mirror:
     name: Mirror repository to GitLab
