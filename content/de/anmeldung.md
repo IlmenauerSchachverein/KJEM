@@ -1,5 +1,5 @@
 ---
-title: Anmeldung - Open
+title: Anmeldung - 2025 
 type: docs
 toc: false
 ---
