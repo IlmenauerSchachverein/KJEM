@@ -5,4 +5,4 @@ toc: false
 ---
 
 
-<iframe src="https://register.ilmenauer-schachverein.de/kjem" width="100%" height="1200px" style="border: none;"></iframe>
+<iframe src="https://register.ilmenauer-schachverein.de/kjem" width="100%" height="100%" style="border: none;"></iframe>
