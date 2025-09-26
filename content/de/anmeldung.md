@@ -1,8 +1,8 @@
 ---
-title: Anmeldung 2025
+title: Anmeldung - Open
 type: docs
-weight: 2
-toc: true
+toc: false
 ---
 
-Wir schalten die Anmeldung frei wenn die Ausschreibung genehmigt ist. 
+
+<iframe src="https://register.ilmenauer-schachverein.de/kjem" width="100%" height="1200px" style="border: none;"></iframe>
