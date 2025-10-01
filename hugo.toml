@@ -29,7 +29,7 @@ googleAnalytics = "G-31NCJYH4MX"
 [menu]
   [[menu.main]]
     name = "Anmeldung"
-    url = "/anmeldung"
+    url = "/2025/anmeldung"
     weight = -200
   
   [[menu.main]]
