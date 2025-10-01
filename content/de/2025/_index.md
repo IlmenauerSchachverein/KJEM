@@ -8,7 +8,7 @@ toc: false
 
 {{< cards >}}
 {{< card link="ausschreibung" title="Ausschreibung" icon="user" >}}
-{{< card link="../anmeldung" title="Anmeldung" icon="user" >}}
+{{< card link="anmeldung" title="Anmeldung" icon="user" >}}
 {{< /cards >}}
 
 
