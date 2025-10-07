@@ -6,7 +6,7 @@ type: docs
 ## Wichtige Informationen
 
 {{< cards >}}
-{{< card link="ausschreibung" title="Ausschreibung" icon="user" >}}
+{{< card link="/2025/ausschreibung" title="Ausschreibung" icon="user" >}}
 {{< card link="/2025/anmeldung" title="Anmeldung" icon="user" >}}
 {{< /cards >}}
 
