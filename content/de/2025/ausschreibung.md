@@ -79,3 +79,5 @@ next: docs/folder/
 Mit der Anmeldung erklärt sich der Teilnehmer / die Teilnehmerin bzw. dessen Erziehungsberechtigte einverstanden,  
 dass während des Turniers **Fotos** gemacht und diese für **Öffentlichkeitsarbeit** genutzt sowie an Dritte  
 (z. B. Zeitungen) weitergegeben werden dürfen.  
+
+{{< hextra/hero-button text="Download als PDF" link="/2025/kjem2025.pdf" >}}
