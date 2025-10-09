@@ -4,7 +4,11 @@ type: docs
 prev: /
 next: docs/folder/
 ---
-{{< hextra/hero-button text="Download als PDF" link="2025/kjem.pdf" >}}
+<br><br>
+{{< hextra/hero-button text="Download als PDF" link="/2025/kjem.pdf" >}}
+<br><br>
+{{< hextra/hero-button text="Neu" link="/2025/kjem_neu.pdf" >}}
+
 
 **Altersklassen:** U08 bis U18  
 
