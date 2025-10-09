@@ -5,10 +5,6 @@ prev: /
 next: docs/folder/
 ---
 
-
-# Kreisjugendeinzelmeisterschaft Schach  
-## Ilm-Kreis 2025  
-
 **Altersklassen:** U08 bis U18  
 
 **Veranstalter:** Kreisfachausschuss Schach des Ilm-Kreises  
