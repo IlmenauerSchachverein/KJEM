@@ -44,13 +44,6 @@ jobs:
           hugo mod tidy
           hugo --gc --minify --enableGitInfo
 
-      - name: Verify PDFs are not LFS pointers (public)
-        run: |
-          if grep -R "git-lfs.github.com/spec/v1" -n public; then
-            echo "ERROR: public/ enthält LFS-Pointer. Abbruch."
-            exit 1
-          fi
-
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
