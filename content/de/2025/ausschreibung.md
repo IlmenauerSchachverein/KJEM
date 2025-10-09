@@ -4,11 +4,7 @@ type: docs
 prev: /
 next: docs/folder/
 ---
-<br><br>
-{{< hextra/hero-button text="Download als PDF" link="/gamma/kjem.pdf" >}}
-<br><br>
-{{< hextra/hero-button text="Neu" link="/gamma/Ilmenauer_Open_2024-Ausschreibung.pdf" >}}
-
+<a href="/gamma/kjem.pdf" class="image fit">wdawsdas</a>
 
 ## Altersklassen:
 -  U08 bis U18  
