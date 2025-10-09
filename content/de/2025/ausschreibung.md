@@ -4,9 +4,6 @@ type: docs
 prev: /
 next: docs/folder/
 ---
-<br>
-{{< hextra/hero-button text="Download als PDF" link="/2025/kjem-2025.pdf" >}}
-
 
 ## Altersklassen:
 -  U08 bis U18  
@@ -27,7 +24,7 @@ next: docs/folder/
     - ca. **16:30 Uhr Siegerehrung**  
 
 ## Meldung 
-Bis zum 08.11.2025 über [https://kjem.ilmenauer-schachverein.de/anmeldung](https://kjem.ilmenauer-schachverein.de/anmeldung )  
+Bis zum 08.11.2025 über [https://kjem.ilmenauer-schachverein.de/2025/anmeldung](https://kjem.ilmenauer-schachverein.de/2025/anmeldung )  
 
 ## Ort
  - Schülerfreizeitzentrum, „Am Großen Teich“, Ilmenau  
