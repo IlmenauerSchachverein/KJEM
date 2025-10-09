@@ -7,19 +7,26 @@ next: docs/folder/
 <br><br>
 {{< hextra/hero-button text="Download als PDF" link="/2025/kjem.pdf" >}}
 <br><br>
-{{< hextra/hero-button text="Neu" link="Ilmenauer_Open_2024-Ausschreibung.pdf" >}}
+{{< hextra/hero-button text="Neu" link="/2025/Ilmenauer_Open_2024-Ausschreibung.pdf" >}}
 
 
-**Altersklassen:** U08 bis U18  
+## Altersklassen:
+-  U08 bis U18  
 
-**Veranstalter:** Kreisfachausschuss Schach des Ilm-Kreises  
-**Ausrichter:** Ilmenauer Schachverein e.V.  
-**Turnierleiter:** Stefan Schenk und Georg Lehmann  
+## Veranstalter:
+-  Kreisfachausschuss Schach des Ilm-Kreises  
 
-**Termin:** Samstag, 15.11.2025  
-- Anmeldung bis **9:30 Uhr**  
-- Turnierbeginn **10:00 Uhr**  
-- ca. **16:30 Uhr Siegerehrung**  
+## Ausrichter:
+ -  Ilmenauer Schachverein e.V.  
+
+## Turnierleiter:
+-  Stefan Schenk und Georg Lehmann  
+
+## Termin:
+- Samstag, 15.11.2025  
+    - Anmeldung bis **9:30 Uhr**  
+    - Turnierbeginn **10:00 Uhr**  
+    - ca. **16:30 Uhr Siegerehrung**  
 
 **Meldung:** Bis zum 08.11.2025 über [https://kjem.ilmenauer-schachverein.de](https://kjem.ilmenauer-schachverein.de)  
 
