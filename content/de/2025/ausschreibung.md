@@ -5,9 +5,9 @@ prev: /
 next: docs/folder/
 ---
 <br><br>
-{{< hextra/hero-button text="Download als PDF" link="/files/kjem.pdf" >}}
+{{< hextra/hero-button text="Download als PDF" link="/gamma/kjem.pdf" >}}
 <br><br>
-{{< hextra/hero-button text="Neu" link="/files/Ilmenauer_Open_2024-Ausschreibung.pdf" >}}
+{{< hextra/hero-button text="Neu" link="/gamma/Ilmenauer_Open_2024-Ausschreibung.pdf" >}}
 
 
 ## Altersklassen:
