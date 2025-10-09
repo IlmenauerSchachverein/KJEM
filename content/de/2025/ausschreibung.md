@@ -4,7 +4,8 @@ type: docs
 prev: /
 next: docs/folder/
 ---
-<a href="/gamma/kjem.pdf" class="image fit">wdawsdas</a>
+{{< hextra/hero-button text="Download als PDF" link="/2025/kjem2025.pdf" >}}
+
 
 ## Altersklassen:
 -  U08 bis U18  
