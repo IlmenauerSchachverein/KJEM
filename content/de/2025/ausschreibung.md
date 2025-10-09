@@ -4,7 +4,7 @@ type: docs
 prev: /
 next: docs/folder/
 ---
-<br><br>
+<br>
 {{< hextra/hero-button text="Download als PDF" link="/2025/kjem2025.pdf" >}}
 
 
@@ -26,9 +26,11 @@ next: docs/folder/
     - Turnierbeginn **10:00 Uhr**  
     - ca. **16:30 Uhr Siegerehrung**  
 
-**Meldung:** Bis zum 08.11.2025 über [https://kjem.ilmenauer-schachverein.de](https://kjem.ilmenauer-schachverein.de)  
+## Meldung 
+Bis zum 08.11.2025 über [https://kjem.ilmenauer-schachverein.de](https://kjem.ilmenauer-schachverein.de)  
 
-**Ort:** Schülerfreizeitzentrum, „Am Großen Teich“, Ilmenau  
+## Ort
+ - Schülerfreizeitzentrum, „Am Großen Teich“, Ilmenau  
 
 ---
 
