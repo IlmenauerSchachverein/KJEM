@@ -7,7 +7,7 @@ next: docs/folder/
 <br><br>
 {{< hextra/hero-button text="Download als PDF" link="/2025/kjem.pdf" >}}
 <br><br>
-{{< hextra/hero-button text="Neu" link="/2025/kjem_neu.pdf" >}}
+{{< hextra/hero-button text="Neu" link="Ilmenauer_Open_2024-Ausschreibung.pdf" >}}
 
 
 **Altersklassen:** U08 bis U18  
