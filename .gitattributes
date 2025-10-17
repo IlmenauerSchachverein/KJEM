@@ -1,1 +1,12 @@
-*.pdf -filter -diff -merge text
+* text=auto eol=lf
+
+*.pdf   binary
+*.jpg   binary
+*.jpeg  binary
+*.png   binary
+*.gif   binary
+*.webp  binary
+*.ico   binary
+*.svg   binary
+*.woff  binary
+*.woff2 binary
