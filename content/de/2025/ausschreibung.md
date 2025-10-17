@@ -5,7 +5,7 @@ prev: /
 next: docs/folder/
 ---
 <br>
-{{< cards >}} {{< card link="/2025/kjem2025.pdf" title="Download Ausschreibung als PDF" icon="user" target="_blank">}} {{< /cards >}}
+{{< cards >}} {{< card link="/2025/kjem-2025.pdf" title="Download Ausschreibung als PDF" icon="user" target="_blank">}} {{< /cards >}}
 
 ## Altersklassen:
 -  U08 bis U18  
