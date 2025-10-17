@@ -4,10 +4,8 @@ type: docs
 prev: /
 next: docs/folder/
 ---
-<br><br>
-<div class="mb-8"> 
-{{< hextra/hero-button text="Download Ausschreibung als PDF" link="/2025/kjem2025.pdf" >}}
-</div>
+<br>
+{{< cards >}} {{< card link="/2025/kjem2025.pdf" title="Download Ausschreibung als PDF" icon="user" target="_blank">}} {{< /cards >}}
 
 ## Altersklassen:
 -  U08 bis U18  
