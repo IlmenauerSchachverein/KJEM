@@ -26,7 +26,7 @@ next: docs/folder/
     - ca. **16:30 Uhr Siegerehrung**  
 
 ## Meldung 
-Bis zum 08.11.2025 über [https://kjem.ilmenauer-schachverein.de/2025/anmeldung](https://kjem.ilmenauer-schachverein.de/2025/anmeldung )  
+Bis zum (Donnerstag) 13.11.2025 über [https://kjem.ilmenauer-schachverein.de/2025/anmeldung](https://kjem.ilmenauer-schachverein.de/2025/anmeldung )  
 
 ## Ort
  - Schülerfreizeitzentrum, „Am Großen Teich“, Ilmenau  
