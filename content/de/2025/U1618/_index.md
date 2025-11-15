@@ -24,3 +24,7 @@ toc: false
 | 4.    | 4  | Schnur, Oskar   | U16m | 1              | 2          | 9        |
 
 ## Rangliste U18
+
+| Platz | Nr | Name            | AK   | Punkte (Summe) | SoB-Berger | Buchholz |
+|------:|---:|-----------------|------|----------------|-----------:|---------:|
+| 1.    | 1  | Schauer, Robert | U18m | 4              | 6          | 6        |
