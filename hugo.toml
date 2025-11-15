@@ -27,12 +27,7 @@ googleAnalytics = "G-31NCJYH4MX"
     title = "KJEM Ilm Kreis"
     contentDir = "content/de"
 
-[menu]
-  [[menu.main]]
-    name = "Anmeldung"
-    url = "/2025/anmeldung"
-    weight = -200
-  
+[menu]  
   [[menu.main]]
     name = "Ausschreibung"
     url = "/2025/ausschreibung"
