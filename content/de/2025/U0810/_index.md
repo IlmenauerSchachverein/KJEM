@@ -20,11 +20,6 @@ toc: false
 
 > Keine Teilnehmerinnen in dieser Altersklasse.
 
-| Rang | Teilnehmer | Titel | TWZ | Attr. | Verein/Ort | S | R | V | Punkte | Buchh | SoBerg |
-|-----:|------------|:-----:|:---:|:----:|------------|:-:|:-:|:-:|:------:|:-----:|:------:|
-| –    | keine Teilnehmerinnen |     |     |      |            |   |   |   |        |       |        |
-
----
 
 ## U08m
 
@@ -32,7 +27,7 @@ toc: false
 |-----:|--------------|:-----:|:---:|:----:|--------------|:-:|:-:|:-:|:------:|:-----:|:------:|
 | 1    | Luu, Hai Nam | U8    |     |  M   | Ilmenauer SV | 2 | 0 | 3 | 2.0    | 15.0  | 5.00   |
 
----
+
 
 ## U10w
 
@@ -41,7 +36,6 @@ toc: false
 | 1    | Eisenbach, Mila Marie | U10   | 786 |  W   | Ilmenauer SV | 4 | 0 | 1 | 4.0    | 15.0  | 11.00  |
 | 2    | Tran, Anna Kani       | U10   |     |  W   | Ilmenauer SV | 3 | 0 | 2 | 3.0    | 12.0  | 7.00   |
 
----
 
 ## U10m
 
