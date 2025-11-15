@@ -1,19 +1,17 @@
 ---
-title: Runde
+title: Runden
 type: docs
 toc: true
 ---
 
-## Paarungen aller Runden
+# Runde 1
 
-{{< cards >}}
-{{< card link="1" title="Paarungen Runde 1" icon="user" >}}
-{{< card link="2" title="Paarungen Runde 2" icon="user" >}}
-{{< card link="3" title="Paarungen Runde 3" icon="user" >}}
-{{< card link="4" title="Paarungen Runde 4" icon="user" >}}
-{{< card link="5" title="Paarungen Runde 5" icon="user" >}}
-{{< card link="6" title="Paarungen Runde 6" icon="user" >}}
-{{< card link="7" title="Paarungen Runde 7" icon="user" >}}
-{{< card link="8" title="Paarungen Runde 8" icon="user" >}}
-{{< card link="9" title="Paarungen Runde 9" icon="user" >}}
-{{< /cards >}}
+| Tisch | TNr | Teilnehmer            | Titel | Punkte | - | TNr | Teilnehmer       | Titel | Punkte | Erg. | Ergebnis | Erg. | At. |
+|------:|----:|-----------------------|:-----:|:------:|:-:|----:|------------------|:-----:|:------:|:---:|:--------:|:---:|:---:|
+| 1     | 1   | Eisenbach, Mila Marie | U10   | ()     | - | 5   | Zeh, Julian      | U10   | ()     | 1   | -        | 0   |     |
+| 2     | 6   | Tran, Anna Kani       | U10   | ()     | - | 2   | Luu, Hai Nam     | U8    | ()     | 0   | -        | 1   |     |
+| 3     | 3   | Kinne, Julian         | U10   | ()     | - | 7   | Jäger, Albert    | U10   | ()     | 0   | -        | 1   |     |
+| 4     | 8   | Ali, Jad              | U10   | ()     | - | 4   | Höhne, Vytautas  | U10   | ()     | 0   | -        | 1   |     |
+| 5     | 9   | Gutzeit, Johann       | U10   | ()     | - |    | spielfrei        |       | ()     | +   | -        | -   |     |
+
+#
