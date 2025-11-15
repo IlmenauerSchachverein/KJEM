@@ -6,7 +6,6 @@ toc: false
 ## Wichtige Informationen
 
 {{< cards >}}
-{{< card link="https://s2.chess-results.com/tnrWZ.aspx?lan=0&SNode=S0&tno=1242374" title="Chess-Results" icon="user" >}}
 {{< card link="startrangliste" title="Start Rangliste" icon="user" >}}
 {{< /cards >}}
 

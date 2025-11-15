@@ -6,7 +6,6 @@ toc: false
 ## Wichtige Informationen
 
 {{< cards >}}
-{{< card link="https://chess-results.com/tnr1058956.aspx?lan=0" title="Chess-Results" icon="user" >}}
 {{< card link="startrangliste" title="Start Rangliste" icon="user" >}}
 {{< /cards >}}
 
