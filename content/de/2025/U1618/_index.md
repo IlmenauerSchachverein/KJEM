@@ -5,43 +5,15 @@ toc: false
 
 ## Kreuztabelle
 
-<table>
-    <tr>
-        <th>Name</th>
-        <th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th>
-        <th>Summe</th><th>SoB-Berger</th><th>Buchholz</th>
-    </tr>
-    <tr>
-        <td>Schauer, Robert</td>
-        <td>X</td><td>1</td><td>1</td><td>1</td><td>1</td><td></td>
-        <td>4</td><td>6</td><td>6</td>
-    </tr>
-    <tr>
-        <td>Liebl, Arthur</td>
-        <td>0</td><td>X</td><td>0</td><td>1</td><td>0</td><td></td>
-        <td>1</td><td>1</td><td>9</td>
-    </tr>
-    <tr>
-        <td>Bochert, Marius</td>
-        <td>0</td><td>1</td><td>X</td><td>1</td><td>0</td><td></td>
-        <td>2</td><td>2</td><td>8</td>
-    </tr>
-    <tr>
-        <td>Schnur, Oskar</td>
-        <td>0</td><td>0</td><td>0</td><td>X</td><td>1</td><td></td>
-        <td>1</td><td>2</td><td>9</td>
-    </tr>
-    <tr>
-        <td>Handschuh, Karl</td>
-        <td>0</td><td>1</td><td>1</td><td>0</td><td>X</td><td></td>
-        <td>2</td><td>3</td><td>8</td>
-    </tr>
-    <tr>
-        <td>spielfrei (Winger, Frank)</td>
-        <td>0</td><td>1</td><td>0</td><td>1</td><td>0</td><td>X</td>
-        <td>2</td><td>2</td><td>10</td>
-    </tr>
-</table>
+| Name                     | 1 | 2 | 3 | 4 | 5 | 6 | Summe | SoB-Berger | Buchholz |
+|--------------------------|---|---|---|---|---|---|-------|------------|----------|
+| Schauer, Robert          | X | 1 | 1 | 1 | 1 |   | 4     | 6          | 6        |
+| Liebl, Arthur            | 0 | X | 0 | 1 | 0 |   | 1     | 1          | 9        |
+| Bochert, Marius          | 0 | 1 | X | 1 | 0 |   | 2     | 2          | 8        |
+| Schnur, Oskar            | 0 | 0 | 0 | X | 1 |   | 1     | 2          | 9        |
+| Handschuh, Karl          | 0 | 1 | 1 | 0 | X |   | 2     | 3          | 8        |
+| spielfrei (Winger, Frank)| 0 | 1 | 0 | 1 | 0 | X | 2     | 2          | 10       |
+
 
 ## Rangliste U16
 
