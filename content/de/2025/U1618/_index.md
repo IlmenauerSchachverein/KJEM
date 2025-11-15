@@ -1,5 +1,5 @@
 ---
-title: Altersklasse U18
+title: Altersklasse U16 - U18
 toc: false
 ---
 
