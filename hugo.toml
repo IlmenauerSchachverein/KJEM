@@ -2,8 +2,6 @@ title = "Kreis Jugend Einzel Meisterschaft Schach"
 baseURL = "https://kjem.ilmenauer-schachverein.de"
 defaultContentLanguage = "de"
 
-googleAnalytics = "G-31NCJYH4MX"
-
 [module]
   [[module.imports]]
     path = "github.com/imfing/hextra"
